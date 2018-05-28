@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout_table_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\layout\\table_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout_frame_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\layout\\frame_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\menu_layouts.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\menu\\layouts.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout_linear_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\layout\\linear_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\menu_sample_scrolling_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\menu\\sample_scrolling_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout_scrolling_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\layout\\scrolling_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\layout_relative_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\layout\\relative_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\menu_sample_table_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\menu\\sample_table_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\menu_frame_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\menu\\frame_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\menu_sample_relative_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\menu\\sample_relative_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\build\\intermediates\\res\\merged\\debug\\menu_sample_linear_layout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\StudioProjects\\FinalCode\\Layouts\\app\\src\\main\\res\\menu\\sample_linear_layout.xml"
+    }
+]
